@@ -42,7 +42,7 @@ def create_hexgrid(size, xmin, ymin, xmax, ymax):
    
     Returns
     -------
-    pologon containing hexagon's coordinates.
+    polygon containing hexagon's coordinates.
     """
     grid = []
     
