@@ -5,11 +5,11 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/burnp3_pij.svg)](https://anaconda.org/conda-forge/burnp3_pij)
 
 
-**A package to generate spread probability map and table from BurnP3 simulation outputs**
+**A package to generate spread probability map and table from XXX simulation outputs**
 
 
 -   Free software: MIT license
--   Documentation: https://NRCAN-NingLiu.github.io/burnp3_pij
+-   Documentation: https://NRCAN-NingLiu.github.io/XXX_pij
     
 
 ## Features
