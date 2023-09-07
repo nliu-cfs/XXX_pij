@@ -1,4 +1,4 @@
-# burnp3_pij
+# XXX_pij
 
 
 [![image](https://img.shields.io/pypi/v/burnp3_pij.svg)](https://pypi.python.org/pypi/burnp3_pij)
